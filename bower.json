@@ -1,0 +1,21 @@
+{
+  "name": "HTML5 tools",
+  "authors": [
+    "Zia <zia_gt@yahoo.com>"
+  ],
+  "description": "1.0",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.2",
+    "bootstrap": "^3.3.7"
+  }
+}

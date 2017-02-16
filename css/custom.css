@@ -1,0 +1,18 @@
+body {
+  padding-top: 50px;
+}
+.content {
+  padding: 40px 15px;
+  text-align: center;
+}
+.poopFont {
+  font-family: 'Poopy', Arial, sans-serif;
+  color: #ff33ff; }
+
+h1, h2 {
+  font-size: 2em;
+  font-weight: bold;
+  color: blue;
+  padding: 8px 10px; }
+
+/*# sourceMappingURL=custom.css.map */
